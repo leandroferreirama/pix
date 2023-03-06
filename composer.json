@@ -1,0 +1,25 @@
+{
+  "name": "leandroferreirama/aoi",
+  "description": "Classe responsável por fazer a comunicação com o pix",
+  "keywords": [
+    "leandroferreirama",
+    "apipix",
+    "pix"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Leandro F Marcelli",
+      "email": "suporte@integracaossistema.com.br",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "LeandroFerreiraMa\\pix\\": "src"
+    }
+  }
+}
